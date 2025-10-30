@@ -22,3 +22,8 @@
 
 აპლიკაციის გაშვება ნებისმიერ სისტემაზე (Mac, Windows, Linux) შეგიძლიათ **Docker Desktop**-ის მეშვეობით.
 
+git clone https://github.com/Incel-ops/cxeli-dzagli-picker.git
+cd cxeli-dzagli-picker
+pip3 install colorama
+python3 main.py
+
